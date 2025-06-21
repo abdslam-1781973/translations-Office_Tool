@@ -7,39 +7,38 @@
 <p align="center">
 <a href="https://www.coolhub.top/" target="_blank"><img alt="Author" src="https://img.shields.io/badge/Author-Yerong-blue?style=flat-square"/></a>
 <img alt="Language" src="https://img.shields.io/badge/Language-C%23-green?style=flat-square"/>
-<a href="https://otp.landian.vip/" target="_blank"><img alt="Release" 
-src="https://img.shields.io/github/v/release/YerongAI/Office-Tool?style=flat-square"/></a>
-<img alt="License" src="https://img.shields.io/github/license/YerongAI/Office-Tool?style=flat-square"/>
+<a href="https://otp.landian.vip/" target="_blank"><img alt="release" src="https://img.shields.io/github/v/release/YerongAI/Office-Tool?style=flat-square"/></a>
+<img alt="license" src="https://img.shields.io/github/license/YerongAI/Office-Tool?style=flat-square"/>
 </p>
 
-> A powerful and useful tool for Office deployments.
+> اداة قوية ومفيدة لتثبيت الاوفيس
 
-Supports custom deployment and activation of the following products:
+ تدعم تثبيت وتنشيط المنتجات الاتية:
 
-- Microsoft 365.
-- Office 2016, 2019, 2021, 2024.
-- Visio 2016, 2019, 2021, 2024 & Online Plan 2.
-- Project 2016, 2019, 2021, 2024 & Online Desktop Client.
+- Microsoft 365
+- Office 2016, 2019, 2021, 2024
+- Visio 2016, 2019, 2021, 2024 & Online Plan 2
+- Project 2016, 2019, 2021, 2024 & Online Desktop Client
 
-Functions and Features:
+:الوظائف والمميزات
 
-- Create Office installation configuration. The config can be exported to local, or imported from local or web.
-- Download Office, supporting `ALL` Office channels and `ALL` Office languages.
-- Install Office or modify the existing Office, such as adding new products and applications, or uninstalling products and applications.
-- Create Office ISO, supports default installation config and silent installation config.
-- Activate Office. Support online activation, phone activation and KMS activation.
-- Support Office activation management, including license management, key management and KMS management.
-- Change Office update channel, support upgrading/downgrading Office without reinstalling Office.
-- Remove Office. Force remove Office while it can’t be uninstalled in normal way, support Office from Office 2003 to the latest Office version.
-- Integrated Office tools, including resetting settings, fixing Office problems.
-- Convert Office documents, based on Office COM. it's fast and stable.
-- Personalize theme, you can build your special Office Tool Plus.
-- Advanced settings allow you to use more advanced features, such as Office internal channels.
+- انشاء اعدادات لتثبيت الاوفيس، يمكن حفظ ملف الاعداد او جلبه من الويب
+- تحميل الاوفيس، يدعم البرنامج جميع قنوات ولغات الاوفيس
+- تثبيت الاوفيس او تعديل النسخة المثبتة بالفعل، سواء اضافة منتجات او برامج، او ازالتهم
+- انشاء نسخة ايزو تدعم التثبيت الافتراضي والتثبيت الصامت
+- تنشيط الاوفيس. سواء تنشيط اونلاين او بالهاتف او تنشيط KMS
+- تدعم ادارة التنشيط والتراخيص والمفاتيح وتنشيط KMS
+- تغيير قناة تحديث الاوفيس مما يمكنك من الترقية او الانزال لنسخ مختلفة دون اعادة التثبيت
+- ازالة الاوفيس. فرض الازالة بالقوة عند عدم تمكنك من الازالة بالطريقة العادية وذلك لاوفيس 2003 حتى اخر اصدار
+- ادوات اوفيس مدمجة تشمل ادوات الاستعادة الافتراضية وادوات الاصلاح
+- تحويل ملفات الاوفيس مستخدما موقع الاوفيس الرسمي، بسهولة وثبات
+- تخصيص الواجهة كما تحب
+- اعدادات متقدمة للوصول الى خصائص مميزة، مثل تغيير قنوات الاوفيس الداخلية
 
-## Download and quick start
+## التحميل والبدء السريع
 
-- [Download](https://otp.landian.vip/download.html)
-- [Documentation](https://otp.landian.vip/help/)
+- [تحميل](https://otp.landian.vip/download.html)
+- [التوثيق](https://otp.landian.vip/help/)
 
 Or download Office Tool Plus using PowerShell:
 
@@ -47,51 +46,8 @@ Or download Office Tool Plus using PowerShell:
 irm officetool.plus | iex
 ```
 
-## Thanks to the Translators
+## عنا
 
-| Culture | Name | Translators |
-| :-- | :-- | :-- |
-| de-de | Deutsch (Deutschland) | [Berny23](https://steamcommunity.com/id/Berny23) |
-| en-gb | English (United Kingdom) | [Mcforwin](https://github.com/Mcforwin) |
-| en-us | English (United States) | [Yerong](https://officetool.plus/) |
-| hu-hu | magyar (Magyarország) | [John Fowler](https://github.com/JohnFowler58) |
-| id-id | Bahasa Indonesia (Indonesia) | [Ida Bagus Anom Sanjaya](https://fb.me/Anom.Sanjaya17), [Reno Sifana Paksi](https://linktr.ee/renosifana.paksi) |
-| it-it | Italiano (Italia) | [garf02](https://github.com/garf02), [bovirus](https://github.com/bovirus) |
-| ja-jp | 日本語 (日本) | [秋山へいわ](https://github.com/akio1321)|
-| ko-kr | 한국어 (대한민국) | [VenusGirl❤](https://github.com/VenusGirl) |
-| nl-nl | Nederlands (Nederland) | [Kajoe](https://github.com/Kajoe1) |
-| pl-pl | Polski (Polska) | [JakubDriver](https://github.com/jakubdriver) |
-| pt-br | Português (Brasil) | [Igor Rückert](https://github.com/igorruckert) |
-| ru-ru | Русский (Россия) | [Долматов Алексей](https://github.com/iDolmatov) |
-| th-th | ไทย (ไทย) | [dekthaiinchina](https://github.com/dekthaiinchina) |
-| tr-tr | Türkçe (Türkiye) | [Tayfun Akkoyun](https://github.com/crasadure) |
-| uk-ua | українська (Україна) | [Olexii Korshunov](https://github.com/korshunov-olexiy) |
-| vi-vn | Tiếng Việt (Việt Nam) | [Nguyen Quang Trung](https://github.com/TrungThachDau) |
-| zh-tw | 繁體中文 (台灣) | [Yi Chi](https://www.cotpear.com) |
+© 2016-2025 Yerong. جميع الحقوق محفوظة.
 
-## Help With Localization
-
-We encourage everyone to help with localization. The following is how to do it.
-
-1. Fork this repository.
-
-2. Translate **en-us.xaml** to your own language then save it like **de-de.xaml**.
-
-3. Copy it to the right path.
-
-4. Make a Pull Request.
-
-There is the files you can translate with:
-
-``` batch
-src\OfficeToolPlus\Dictionaries\Languages
-src\OfficeToolPlus\Dictionaries\ProductsName
-config\Launcher
-config\Message
-```
-
-## About
-
-© 2016-2025 Yerong. All Rights Reserved.
-
-> Blog [@Yerong の小窝](https://www.coolhub.top/) · GitHub [@YerongAI](https://github.com/YerongAI) · Telegram [@Office Tool Plus](https://t.me/s/otp_channel)
+> المدونة [@Yerong の小窝](https://www.coolhub.top/) · جيت هب [@YerongAI](https://github.com/YerongAI) · تليجرام [@Office Tool Plus](https://t.me/s/otp_channel) · [مراسلتنا](mailto:yerong@coolhub.top)
